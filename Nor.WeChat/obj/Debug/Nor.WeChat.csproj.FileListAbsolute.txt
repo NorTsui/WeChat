@@ -1,0 +1,4 @@
+E:\SVN\Project\微信\WeChat\Nor.WeChat\bin\Debug\Nor.WeChat.dll
+E:\SVN\Project\微信\WeChat\Nor.WeChat\bin\Debug\Nor.WeChat.pdb
+E:\SVN\Project\微信\WeChat\Nor.WeChat\obj\Debug\Nor.WeChat.dll
+E:\SVN\Project\微信\WeChat\Nor.WeChat\obj\Debug\Nor.WeChat.pdb

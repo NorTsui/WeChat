@@ -1,0 +1,5 @@
+E:\SVN\Project\微信\WeChat\Nor.WeChat.QY\bin\Debug\Nor.WeChat.QY.dll
+E:\SVN\Project\微信\WeChat\Nor.WeChat.QY\bin\Debug\Nor.WeChat.QY.pdb
+E:\SVN\Project\微信\WeChat\Nor.WeChat.QY\obj\Debug\Nor.WeChat.QY.csprojResolveAssemblyReference.cache
+E:\SVN\Project\微信\WeChat\Nor.WeChat.QY\obj\Debug\Nor.WeChat.QY.dll
+E:\SVN\Project\微信\WeChat\Nor.WeChat.QY\obj\Debug\Nor.WeChat.QY.pdb

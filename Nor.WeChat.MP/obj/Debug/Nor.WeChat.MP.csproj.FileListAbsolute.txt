@@ -1,0 +1,5 @@
+E:\SVN\Project\微信\WeChat\Nor.WeChat.MP\bin\Debug\Nor.WeChat.MP.dll
+E:\SVN\Project\微信\WeChat\Nor.WeChat.MP\bin\Debug\Nor.WeChat.MP.pdb
+E:\SVN\Project\微信\WeChat\Nor.WeChat.MP\obj\Debug\Nor.WeChat.MP.csprojResolveAssemblyReference.cache
+E:\SVN\Project\微信\WeChat\Nor.WeChat.MP\obj\Debug\Nor.WeChat.MP.dll
+E:\SVN\Project\微信\WeChat\Nor.WeChat.MP\obj\Debug\Nor.WeChat.MP.pdb
